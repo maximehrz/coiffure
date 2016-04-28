@@ -33,13 +33,13 @@ $(function(){
   // Choix utilisateur
 
   $('#persdiv1').click(function(){
-    document.location.href="coiffure.php?pers=0";
+    document.location.href="php/coiffure.php?pers=0";
   })
   $('#persdiv2').click(function(){
-    document.location.href="coiffure.php?pers=0";
+    document.location.href="php/coiffure.php?pers=0";
   })
   $('#persdiv3').click(function(){
-    document.location.href="coiffure.php?pers=0";
+    document.location.href="php/coiffure.php?pers=0";
   })
 
 
