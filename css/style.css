@@ -1,0 +1,53 @@
+#title
+{
+  font-size: 70px;
+}
+
+#perschoix h2
+{
+  text-align: center;
+}
+
+#perschoix h2
+{
+  margin-top: 115px;
+}
+
+#persdiv1
+{
+  background-color: #60b7ff;
+  padding: 10px;
+  margin: 2px;
+  height: 300px;
+}
+
+#persdiv1:hover
+{
+  opacity: 0.6;
+}
+
+#persdiv2
+{
+  background-color: #ffc460;
+  padding: 10px;
+  margin: 2px;
+  height: 300px;
+}
+
+#persdiv2:hover
+{
+  opacity: 0.6;
+}
+
+#persdiv3
+{
+  background-color: #e960ff;
+  padding: 10px;
+  margin: 2px;
+  height: 300px;
+}
+
+#persdiv3:hover
+{
+  opacity: 0.6;
+}
